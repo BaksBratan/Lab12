@@ -1,0 +1,4 @@
+﻿  Ex.2.cpp
+D:\Visual\Lab12\Ex.2\Ex.2.cpp(8,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual\Lab12\Ex.2\Ex.2.cpp(33,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ex.2.vcxproj -> D:\Visual\Lab12\x64\Debug\Ex.2.exe
